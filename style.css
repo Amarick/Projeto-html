@@ -1,0 +1,25 @@
+table {
+    border:"0";
+    width:"900"; 
+    text-align:"center";
+}
+body {
+    background-image:"imagens/fundo.png";
+}
+#logo {
+    height:"89";
+    
+
+}
+.links {
+    text-align:"right";
+}
+#copyright {
+    text-align:"center";
+}
+
+#contato {
+    background-image:"imagens/fundo2.png";
+
+}
+
