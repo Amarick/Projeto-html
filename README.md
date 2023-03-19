@@ -5,7 +5,7 @@ Quem Somos: Página que apresenta informações sobre a história da universidad
 Contato: Página que contém informações de contato da universidade, como endereço, telefone e email, além de um formulário de contato para que os usuários possam enviar</P> mensagens diretamente para a instituição.
 
 # Arquivo CSS
-O website inclui um arquivo CSS para estilizar as páginas e torná-las mais atraentes e acessíveis para os usuários. O arquivo CSS pode ser encontrado na pasta "css" do repositório.
+O website inclui um arquivo CSS para estilizar as páginas e torná-las mais atraentes e acessíveis para os usuários. O arquivo CSS é o arquivo com a extensão ".css" do repositório.
 
 # Como executar o website
 Para executar o website, basta clonar o repositório para o seu computador e abrir o arquivo index.html em um navegador de sua escolha. As páginas do website podem ser acessadas através do menu de navegação presente em todas as páginas.
